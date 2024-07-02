@@ -1,6 +1,6 @@
 {
-  "name": "fcc-learn-npm-package-json",
-  "author": "foobar",
+  "name": "free-code-camp",
+  "author": "free-code",
   "dependencies": {
     "express": "^4.14.0"
   },

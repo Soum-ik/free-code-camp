@@ -1,4 +1,4 @@
-{
+{"author": "Jane Doe",
   "dependencies": {
     "data-fetch-ts": "^1.5.1"
   }
